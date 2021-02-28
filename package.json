@@ -2,7 +2,7 @@
     "name": "jtn-dark",
     "displayName": "JTN",
     "description": "awesome dark mode 🔥",
-    "publisher": "jt",
+    "publisher": "jatne",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.53.0"
