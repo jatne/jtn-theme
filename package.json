@@ -1,14 +1,25 @@
 {
-    "name": "jatne",
-    "displayName": "jtn",
-    "description": "awesome dark mode",
-    "version": "0.0.1",
+    "name": "jtn-dark",
+    "displayName": "JTN",
+    "description": "awesome dark mode 🔥",
+    "publisher": "jt",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Paweł Malok",
+        "email": "pawel@malok.net",
+        "url": "https://malok.dev/"
+    },
+    "icon": "icons/ico.png",
+    "repository": {
+        "url": "https://github.com/jatne/jtn-theme",
+        "type": "git"
+    },
     "contributes": {
         "themes": [
             {
