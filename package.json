@@ -1,0 +1,21 @@
+{
+    "name": "jatne",
+    "displayName": "jtn",
+    "description": "awesome dark mode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "jatne",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jatne-color-theme.json"
+            }
+        ]
+    }
+}
